@@ -12,12 +12,12 @@
 
 ## 👨‍💻 About Me
 
-I am a software developer focused on building practical and maintainable web applications.  
-I believe in clean code, consistency, and learning through real-world projects.
+I focus on building practical, maintainable web applications with clean and readable code.  
+Learning continuously and improving through real-world projects.
 
 - 💻 Web Development  
-- 🌱 Learning JavaScript & backend fundamentals  
-- 🛠 Building real-world projects  
+- 🌱 JavaScript & backend fundamentals  
+- 🛠 Real-world projects  
 - 📍 India  
 
 ---
@@ -37,15 +37,7 @@ I believe in clean code, consistency, and learning through real-world projects.
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=iq4u8&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=iq4u8&theme=onedark&no-frame=true&row=1" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iq4u8&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
