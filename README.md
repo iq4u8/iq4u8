@@ -5,69 +5,48 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=18&duration=3000&color=36BCF7&center=true&vCenter=true&width=600&lines=Software+Developer;Web+Technologies+Enthusiast;Building+Practical+Projects;Focused+on+Clean+Code" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Software+Developer;Web+Technologies+Enthusiast;Building+Practical+Projects;Focused+on+Clean+Code" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-I am a software developer focused on building **practical, scalable, and maintainable web applications**.  
-I believe in writing clean code, learning continuously, and improving through real-world projects.
+I am a software developer focused on building practical and maintainable web applications.  
+I believe in clean code, consistency, and learning through real-world projects.
 
-- 💻 Focus: Web Development  
-- 🌱 Currently learning: JavaScript & Backend fundamentals  
-- 🛠 Approach: Build → Learn → Improve  
-- 📍 Location: India  
+- 💻 Web Development  
+- 🌱 Learning JavaScript & backend fundamentals  
+- 🛠 Building real-world projects  
+- 📍 India  
 
 ---
 
 ## 🧰 Tech Stack
 
-**Languages & Core**
 - HTML5, CSS3, JavaScript  
-
-**Tools**
-- Git, GitHub, VS Code  
-
-**Currently Exploring**
-- Backend fundamentals  
-- Code optimization & best practices  
+- Git & GitHub  
+- VS Code  
 
 ---
 
-## 📂 Featured Work
-
-- **Portfolio Website** – Responsive personal portfolio  
-- **School Management System** – CRUD-based web application  
-- **UI Practice Projects** – HTML/CSS focused layouts  
-
----
-
-## 📊 GitHub Analytics
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=iq4u8&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iq4u8&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=iq4u8&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 🏆 Profile Highlights
+## 🏆 GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=iq4u8&theme=onedark&no-frame=true&row=1" />
 </p>
-
----
-
-## 🔗 Connect
-
-- GitHub: https://github.com/iq4u8  
-- Email: priyanshupandey.dev@gmail.com  
 
 ---
 
